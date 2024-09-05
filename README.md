@@ -1,3 +1,8 @@
+Here is the [Link](https://qrc-fm.netlify.app)
+
+
+
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
